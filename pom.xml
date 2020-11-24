@@ -15,7 +15,7 @@
 	<dependency>
 	    <groupId>com.github.benaspakonis</groupId>
 	    <artifactId>Software-Engineering-Assignment-1</artifactId>
-	    <version>Rel3</version>
+	    <version>Rel5</version>
 	</dependency>
   </dependencies>  
 </project>
